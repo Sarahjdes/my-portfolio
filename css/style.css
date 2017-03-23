@@ -21,6 +21,12 @@ header {
     color : white;
 }
 
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
 h1 {
     font-family: 'Lobster', cursive;
     font-size: 72px;
