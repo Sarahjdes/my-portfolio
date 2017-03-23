@@ -86,6 +86,19 @@ ul.social-media {
     list-style-position: inherit;
 }
 
+.projects ul {
+    list-style-type: none;
+}
+
+.projects img {
+    width: 200px;
+    border: solid 2px white;
+    border-radius: 5px;
+    float: left;
+    margin: auto 15px;
+    text-align: center;
+}
+
 .content-wrap {
     overflow: hidden;
 }
