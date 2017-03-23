@@ -120,6 +120,10 @@ ul.social-media {
     text-align: center;
 }
 
+.languages ul {
+    list-style-type: none;
+}
+
 .nav li {
     float: left;
     list-style-type: none;
